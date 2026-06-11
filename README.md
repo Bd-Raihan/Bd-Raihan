@@ -26,7 +26,7 @@
 
 ###
 
-<h6 align="left">I'm Web-Developer and Graphics Designer from Bangladesh<br><br>- 🔭 I’m working as  JavaScript, React and ASP.NET<br>- 📚 I'm currently learning  ASP.NET<br>- ⚡ In my free time I 5PM to  9PM</h6>
+<h6 align="left">I'm Full-Stack Developer & Visual Designer,  from Bangladesh<br><br>- 🔭 I’m working as  JavaScript, Dart, React and ASP.NET<br>- 📚 I'm currently learning  ASP.NET<br>- ⚡ In my free time I 5PM to  9PM</h6>
 
 ###
 
